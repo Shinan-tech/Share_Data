@@ -16,9 +16,10 @@
 
 ## Our work done:
 1. We set up our repository on git hub named "Share_Data" 
-2. We retrieved the corona related data from two sources. The first one is corona cases including reported corona cases and death cases per day worldwide as well as google trends result with searching any corona related keywords. In this process, we also narrowed down our location only to Germany.
+2. We retrieved corona related data from the website Ourworldindata via a CSV.
+3. We retrieved corona related search terms with the Google Trends API. 
 3. We retrieved DAX stock ticker list and applied it into the API Alpha Vantage to retrieve all the 30 DAX stocks daily share price.
-4. We combined our DAX / Corona data together and created the graph to make our conclusion.
+4. We combined our DAX / Corona / Trends data together and created the graph to make our conclusion.
 
 ## Our Challenges and Solutions in the project:
 #### Please refer to our presentation
