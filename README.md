@@ -13,7 +13,8 @@
 [Alphavantage - API](https://www.alphavantage.co/documentation/)
 
 ## Our work done:
-1. We set up our repository on git hub named "Share_Data" [](https://github.com/Shinan-tech/Share_Data)
+1. We set up our repository on git hub named "Share_Data" 
+[](https://github.com/Shinan-tech/Share_Data)
 2. We retrieved the corona related data from two sources. The first one is corona cases including reported corona cases and death cases per day worldwide as well as google trends result with searching any corona related keywords. In this process, we also narrowed our location only to Germany.
 3. We retrieved DAX stock ticker list and applied it into the API Alpha Vantage in order to retrieve all the 30 DAX stocks daily share price.
 4. We combined our DAX / Corona data together and created the graph to make our conclusion.
