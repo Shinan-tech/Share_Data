@@ -59,3 +59,5 @@
 [1017/115711.896:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\april\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\da693d4a-641d-4cc5-9047-6ec3f1bc51d1: Das System kann den angegebenen Pfad nicht finden. (0x3)
 [1017/115711.902:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\april\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\75efa967-5a04-447b-bfc1-700fea0eebca: Das System kann den angegebenen Pfad nicht finden. (0x3)
 [1017/115711.908:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\april\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\ee65f906-8056-4ac6-91f4-3ddbb9889f66: Das System kann den angegebenen Pfad nicht finden. (0x3)
+[1018/111530.176:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\april\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\6201f5d6-519f-4ad9-a1e6-e18fde39dfe5: Das System kann den angegebenen Pfad nicht finden. (0x3)
+[1018/111531.946:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\april\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\1e107f16-dbc8-42dc-8cf6-cbaec1bb7b00: Das System kann den angegebenen Pfad nicht finden. (0x3)
